@@ -3,7 +3,7 @@
 [![Last Release:](https://img.shields.io/github/release/openconnect/openconnect-gui.svg)](https://github.com/openconnect/openconnect-gui/releases)
 [![Downloades](https://img.shields.io/github/downloads/openconnect/openconnect-gui/latest/total.svg)](https://github.com/openconnect/openconnect-gui/releases)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
-[![Join the chat at https://gitter.im/openconnect-gui/Lobby](https://badges.gitter.im/openconnect-gui/Lobby.svg)](https://gitter.im/openconnect-gui/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+[![Join the chat at https://gitter.im/openconnect-gui/Lobby](https://badges.gitter.im/openconnect-gui/Lobby.svg)](https://gitter.im/openconnect-gui/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build status](https://ci.appveyor.com/api/projects/status/hueumkrrgut9r3d7?svg=true)](https://ci.appveyor.com/project/horar/openconnect-gui)
 
 This is the GUI client for openconnect VPN.
@@ -17,6 +17,8 @@ Look to [OpenConnect-GUI](http://openconnect.github.io/openconnect-gui/) project
 - macOS 10.12 and newer
 
 ## Development info
+- [Инструкции для AI-агента на русском](AGENTS.md)
+- [Отчёт по домашнему заданию: инструкции и их практическая проверка](docs/ai/REPORT.md)
 - [Software requirements](docs/sw_requirements.md)
 - [Development with QtCreator](docs/dev_QtCreator.md)
 - [Command line compilation](docs/dev_commandLine.md)
