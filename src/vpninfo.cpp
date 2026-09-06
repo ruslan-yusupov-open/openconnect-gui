@@ -65,7 +65,7 @@ static void progress_vfn(void* privdata, int level, const char* fmt, ...)
     va_end(args);
 
     len = strlen(buf);
-    if (buf[len - 1] == '\n')
+    if (len > 0 && buf[len - 1] == '\n')
         buf[len - 1] = 0;
     Logger::instance().addMessage(buf);
 }
